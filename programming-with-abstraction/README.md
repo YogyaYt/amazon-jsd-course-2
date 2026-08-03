@@ -1,18 +1,84 @@
-## Getting Started
+# 📘 Amazon Junior Software Developer – Course 2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains all the labs, exercises, and projects that I complete while studying **Course 2** of the **Amazon Junior Software Developer Professional Certificate**.
 
-## Folder Structure
+The goal of this course is to strengthen Java programming skills and deepen my understanding of Object-Oriented Programming (OOP) by building practical applications.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Repository Structure
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+```
+amazon-junior-software-developer-course-2
+├── ProgrammingWithAbstraction
+├── Lab2
+├── Lab3
+├── FinalProject
+└── README.md
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> The repository will be updated as I complete more labs and projects throughout the course.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🚀 Labs & Projects
+
+### 🎮 Programming with Abstraction
+
+Builds a simple shape-based application using abstraction and inheritance.
+
+**Concepts Practiced**
+- Abstract Classes
+- Abstract Methods
+- Inheritance
+- Method Overriding
+- Polymorphism
+- Code Reusability
+
+---
+
+*(More labs and projects will be added as I progress through the course.)*
+
+---
+
+## 🧠 Topics Covered
+
+- Classes & Objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Abstract Classes
+- Abstract Methods
+- Interfaces
+- Method Overriding
+- Collections
+- Exception Handling
+- File Handling
+- Object-Oriented Design Principles
+
+---
+
+## 🛠️ Technologies
+
+- Java 21
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+## 📚 Course
+
+**Amazon Junior Software Developer Professional Certificate**
+
+**Course 2**
+
+---
+
+## 👨‍💻 Author
+
+**Yogya Sharma**
+
+GitHub: https://github.com/YogyaYt
