@@ -35,6 +35,16 @@ Builds a simple shape-based application using abstraction and inheritance.
 - Polymorphism
 - Code Reusability
 
+### 2. Class Hierarchy
+Implementation of a Java class hierarchy using:
+- Classes and objects
+- Inheritance
+- Abstract classes
+- Abstract methods
+- Method overriding
+- Constructors
+- Encapsulation
+
 ---
 
 *(More labs and projects will be added as I progress through the course.)*
